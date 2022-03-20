@@ -1,5 +1,5 @@
 §k||||||||||||||||||||||||||||||||
-§c§lTTC Client
+§c§lATClient
 §k||||||||||||||||||||||||||||||||
 §avC1.12.0a
 §a§lHelp
@@ -75,6 +75,6 @@ To use:
 - ,altcontrol stop
 - ,altcontrol send <message>
 
-§aDiscord: https://discord.gg/2WsVCQDpwy
+§aGithub: github.com/vibrateur/ATClient
 
 §k||||||||||||||||||||||||||||||||
